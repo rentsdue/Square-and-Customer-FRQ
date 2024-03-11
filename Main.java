@@ -7,5 +7,8 @@ public class Main {
         int ans2= c1.compareCustomer(c2);
         int ans3= c1.compareCustomer(c3);
         System.out.println(ans1 + " " + ans2 + " " + ans3);
+
+        //Customer merge test
+        
     }
 }
